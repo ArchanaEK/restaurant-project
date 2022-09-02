@@ -1,0 +1,24 @@
+
+body{
+    background-image: url('../images/backgroundIMG.jpg');
+
+    /* background-image: url(../images/clickimg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+}
+
+nav{
+    text-align: center;
+}
+
+.p-2{
+    font-size: xx-large;
+    margin: 4px;
+}
+
+/* .BeeImage{
+    background-image: url('../images/clickimg.jpg');
+} */
+
